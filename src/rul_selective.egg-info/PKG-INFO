@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: rul-selective
+Version: 0.1.0
+Summary: Risk-asymmetric selective RUL prediction with TCN quantiles and conformal calibration.
+Requires-Python: >=3.10

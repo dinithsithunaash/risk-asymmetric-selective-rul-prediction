@@ -1,0 +1,9 @@
+{
+  "coverage": 0.63,
+  "unsafe_lower_miss_rate": 0.17,
+  "upper_miss_rate": 0.2,
+  "mean_interval_width": 24.605016708374023,
+  "abstention_rate": 0.08,
+  "median_mae": 12.321646690368652,
+  "accepted_median_mae": 11.630104064941406
+}

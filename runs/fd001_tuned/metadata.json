@@ -1,0 +1,8 @@
+{
+  "device": "cuda",
+  "gpu_count": 2,
+  "train_engines": 70,
+  "calibration_engines": 30,
+  "calibration_lower_correction": 0.08663015067577362,
+  "calibration_upper_correction": 0.0
+}
